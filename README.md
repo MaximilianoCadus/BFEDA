@@ -1,2 +1,2 @@
 # BFEDA
-This repository is for BFEDA Documentation.
+This repository is for BFEDA GitHub Documentation.
